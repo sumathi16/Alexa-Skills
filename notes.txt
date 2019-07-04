@@ -1,0 +1,18 @@
+3rd July,2019
+
+What is Alexa?
+Alexa Devices
+Why alexa skills?
+Why Python?
+What are the options Available?
+
+things 
+uname : pi
+pwd :raspberry
+Mobile App: Fing --- To find out IP of your Pi
+
+https://github.com/sumathi16/Alexa-Skills
+
+4th July,2019
+https://docs.python.org/3/library/json.html
+
