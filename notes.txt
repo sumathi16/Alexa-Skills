@@ -12,7 +12,27 @@ pwd :raspberry
 Mobile App: Fing --- To find out IP of your Pi
 
 https://github.com/sumathi16/Alexa-Skills
+https://www.eclipse.org/paho/clients/python/
+https://pypi.org/project/paho-mqtt/
+
 
 4th July,2019
 https://docs.python.org/3/library/json.html
+http://www.steves-internet-guide.com/send-json-data-mqtt-python/
+
+{
+  "message": "Hello from AWS IoT console"
+}
+
+l=input("input a string")
+d = {'light':l}
+client.publish("led",d,1)
+print(l)
+
+AI DL and ML Presentation
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g1e301fae90_1_593
+	
+
+
+
 
