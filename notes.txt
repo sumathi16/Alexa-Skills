@@ -33,6 +33,7 @@ AI DL and ML Presentation
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g1e301fae90_1_593
 	
 
-
+6th July,2019
+https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/
 
 
